@@ -1,8 +1,10 @@
 Usage notes
 
 ——————————————
+This project was developed with the purpose of detecting question similarities and duplicates among the vectors. The data used for the task is Quora's Question Pairs dataset, its link can be found below. 
 
-This project was developed with the purpose of detecting duplicate questions, allowing people to reach information related to their interests on websites, helping automate the process of answering new questions, enabling applications, bots and websites to identify questions which are semantically similar to users’ intent and providing users with a variety of related questions such as information retrieval.
+Packages
+• Texthero: Used for pre processing and TF.IDF vector representation.
 
 ——————————————
 
