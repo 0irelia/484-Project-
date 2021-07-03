@@ -10,4 +10,4 @@ This project was developed with the purpose of detecting duplicate questions, al
 
 ——————————————
 
-Git Hub page: https://github.com/0irelia/Question-SimilarityUsage notes
+Git Hub page: https://github.com/0irelia/Question-Similarity
