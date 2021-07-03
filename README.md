@@ -2,7 +2,7 @@ Usage notes
 
 ——————————————
 
-This project was developed with the purpose of detecting duplicate questions, allowing people to reach information related to their interests on websites, helping automate the process of answering new questions, enabling applications, bots, websites and voice assistants to identify questions which are semantically similar to users’ intent and providing users with a variety of related questions such as information retrieval.
+This project was developed with the purpose of detecting duplicate questions, allowing people to reach information related to their interests on websites, helping automate the process of answering new questions, enabling applications, bots and websites to identify questions which are semantically similar to users’ intent and providing users with a variety of related questions such as information retrieval.
 
 ——————————————
 
