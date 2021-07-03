@@ -17,3 +17,4 @@ Packages
 
 Git Hub page: https://github.com/0irelia/Question-Similarity
 Quora Question Pairs Dataset: https://www.kaggle.com/quora/question-pairs-dataset
+Project partners: http://github.com/Atari-7
